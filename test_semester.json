@@ -1,0 +1,72 @@
+[
+	{
+		"module_code": "CMP-5012B",
+		"module_name": "Software Engineering",		
+		"module_description": "Software design, modelling, coding, management and teamwork.",
+		"module_organiser":"Jaejoon Lee",
+		"module_start_date":"23/01/2024",
+		"module_end_date":"17/05/2024",
+		"courseworks_exams":
+		[
+			{
+				"summative_name":"Group Project",
+				"summative_type":"coursework",
+				"summative_description":"Web application of a study planner or car park management system.",
+				"summative_set_date":"23/01/2024",
+				"summative_due_date":"17/05/2024"
+			}
+		]
+	},
+	
+	{
+		"module_code": "CMP-5014B",
+		"module_name": "Data Structures and Algorithms",
+		"module_description": "Design, analysis and implementations of algorithms and data structures.",
+		"module_organiser":"Jason Lines",
+		"module_start_date":"23/01/2024",
+		"module_end_date":"17/05/2024",
+		"courseworks_exams":
+		[
+			{
+				"summative_name":"Blackboard Quizzes",
+				"summative_type":"Test",
+				"summative_description":"Online Quiz taking 40 minutes.",
+				"summative_set_date":"23/01/2024",
+				"summative_due_date":"17/05/2024"
+			},
+			{
+				"summative_name":"Exam 1",
+				"summative_type":"Exam",
+				"summative_description":"Online written exam taking 3 hours.",
+				"summative_set_date":"23/01/2024",
+				"summative_due_date":"17/05/2024"
+			},
+			{
+				"summative_name":"Exam 2",
+				"summative_type":"Exam",
+				"summative_description":"Online written exam taking 3 hours.",
+				"summative_set_date":"23/05/2024",
+				"summative_due_date":"23/05/2024"
+			}
+		]
+	},
+	
+	{
+		"module_code": "CMP-5010B",
+		"module_name": "Computer Graphics",
+		"module_description": "Learn about 2D and 3D graphics using OpenGL, focussing on 3D.",
+		"module_organiser":"Stephen Laycock",
+		"module_start_date":"23/01/2024",
+		"module_end_date":"17/05/2024",
+		"courseworks_exams":
+		[
+			{
+				"summative_name":"Fairground Ride Project",
+				"summative_type":"Coursework",
+				"summative_description":"Implement a 3D fairground ride simulation.",
+				"summative_set_date":"23/01/2024",
+				"summative_due_date":"13/05/2024"
+			}
+		]
+	}
+]
